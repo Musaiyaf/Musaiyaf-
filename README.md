@@ -6,7 +6,7 @@
 # Marauder by Musaiyaf 
 <div align="center">
 <img src="https://github.com/Musaiyaf/Musaiyaf-nRFBox/blob/main/2d2cfb475bf3aba5c373de3984e27d20.jpg" alt="logo" width="100" height="auto" />
-  <h1>ESP32Marauder</h1>
+  
 
 # ESP32 Marauder
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder3L.jpg?raw=true" width="300"></p>
